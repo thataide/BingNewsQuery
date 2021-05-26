@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uiHEhxeeRlFAFfcIAjAwEPUNJT52MRSuCE8Jjo80UzZJFUXb4jNAGk0n2UUwjtH/8F+DPhXs5KbzZd7EsEMX5Q==",
+  "dgSpecHash": "pm2aWzC2LYPWFGAWe77vJNYf44rWNB4jgVV5gPnF+JLHScBRBKarwoyU1a+qUMAkGplQS+06dQp5+c0pcYKCZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thataide\\source\\repos\\BingNewsQuery\\BingNewsQuery\\BingNewsQuery.csproj",
+  "projectFilePath": "C:\\Users\\thataide\\source\\repos\\BingNewsQueryCSharp\\BingNewsQuery\\BingNewsQuery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thataide\\.nuget\\packages\\microsoft.azure.cosmos.table\\1.0.8\\microsoft.azure.cosmos.table.1.0.8.nupkg.sha512",
     "C:\\Users\\thataide\\.nuget\\packages\\microsoft.azure.documentdb.core\\2.11.2\\microsoft.azure.documentdb.core.2.11.2.nupkg.sha512",

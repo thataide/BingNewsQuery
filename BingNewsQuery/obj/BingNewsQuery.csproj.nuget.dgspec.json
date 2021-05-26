@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thataide\\source\\repos\\BingNewsQuery\\BingNewsQuery\\BingNewsQuery.csproj": {}
+    "C:\\Users\\thataide\\source\\repos\\BingNewsQueryCSharp\\BingNewsQuery\\BingNewsQuery.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thataide\\source\\repos\\BingNewsQuery\\BingNewsQuery\\BingNewsQuery.csproj": {
+    "C:\\Users\\thataide\\source\\repos\\BingNewsQueryCSharp\\BingNewsQuery\\BingNewsQuery.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thataide\\source\\repos\\BingNewsQuery\\BingNewsQuery\\BingNewsQuery.csproj",
+        "projectUniqueName": "C:\\Users\\thataide\\source\\repos\\BingNewsQueryCSharp\\BingNewsQuery\\BingNewsQuery.csproj",
         "projectName": "BingNewsQuery",
-        "projectPath": "C:\\Users\\thataide\\source\\repos\\BingNewsQuery\\BingNewsQuery\\BingNewsQuery.csproj",
+        "projectPath": "C:\\Users\\thataide\\source\\repos\\BingNewsQueryCSharp\\BingNewsQuery\\BingNewsQuery.csproj",
         "packagesPath": "C:\\Users\\thataide\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thataide\\source\\repos\\BingNewsQuery\\BingNewsQuery\\obj\\",
+        "outputPath": "C:\\Users\\thataide\\source\\repos\\BingNewsQueryCSharp\\BingNewsQuery\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
